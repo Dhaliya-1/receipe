@@ -1,6 +1,7 @@
 🍽️ CookBook – Revolutionizing Recipe Discovery & Creation!
 
-Welcome to CookBook, the ultimate web application designed for both novice and professional chefs! 🧑‍🍳👨‍🍳 With an intuitive interface, powerful features, and a vast collection of recipes, CookBook transforms the way you discover, organize, and create recipes.
+Welcome to CookBook, the ultimate web application designed for both novice and professional chefs! 
+🧑‍🍳👨‍🍳 With an intuitive interface, powerful features, and a vast collection of recipes, CookBook transforms the way you discover, organize, and create recipes.
 
 🚀 Features
 ✅ Dynamic Recipe Search – Find the perfect recipe effortlessly 🔍
@@ -15,7 +16,7 @@ Welcome to CookBook, the ultimate web application designed for both novice and p
 bash
 Copy
 Edit
-git clone https://github.com/your-username/cookbook.git
+git clone https://github.com/Dhaliya-1/receipe
 2️⃣ Navigate into the Project Folder
 
 bash
